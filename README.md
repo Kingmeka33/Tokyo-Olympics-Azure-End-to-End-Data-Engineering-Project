@@ -54,7 +54,12 @@ The dataset includes **five CSV files** related to the Tokyo 2021 Olympics:
 - Processed data in **Azure Databricks (PySpark)**  
 - Loaded CSV files into DataFrames  
 - Conducted schema validation & handled missing values  
-- Stored cleaned data in the **`transformed-data`** folder of ADLS Gen2  
+- Stored cleaned data in the **`transformed-data`** folder of ADLS Gen2
+  
+<img width="767" height="337" alt="Image" src="https://github.com/user-attachments/assets/a7da2a9c-1ca7-425b-a7a6-4254a9bae7e9" />
+<img width="765" height="351" alt="Image" src="https://github.com/user-attachments/assets/81a613f0-ea09-41eb-bd2a-58a1d633d472" />
+<img width="769" height="353" alt="Image" src="https://github.com/user-attachments/assets/6cf3a112-7f0e-48a9-ac2d-3ba2ad059b61" />
+<img width="760" height="274" alt="Image" src="https://github.com/user-attachments/assets/e9ae2564-5e7e-4176-bd90-16557b132ab0" />  
 
 ### **Step 3: Data Warehousing**
 - Linked transformed data to **Azure Synapse Analytics**  
