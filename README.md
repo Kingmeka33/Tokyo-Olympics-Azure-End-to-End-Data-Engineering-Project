@@ -48,7 +48,7 @@ The dataset includes **five CSV files** related to the Tokyo 2021 Olympics:
 - Used ADF pipelines to import raw data from GitHub  
 - Stored data in the **`raw-data`** folder of ADLS Gen2
  <img width="1907" height="811" alt="Image" src="https://github.com/user-attachments/assets/0e8b03be-3090-47f0-a091-f61755fe6262" />
-  <img width="799" height="262" alt="Image" src="https://github.com/user-attachments/assets/5047e017-233c-402d-aadb-d397c47c57ee" />
+ <img width="1915" height="739" alt="Image" src="https://github.com/user-attachments/assets/191d3972-3f38-4712-9c86-304eb4b95d3e" />
 
 ### **Step 2: Data Transformation**
 - Processed data in **Azure Databricks (PySpark)**  
