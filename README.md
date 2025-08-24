@@ -63,7 +63,8 @@ The dataset includes **five CSV files** related to the Tokyo 2021 Olympics:
 
 ### **Step 3: Data Warehousing**
 - Linked transformed data to **Azure Synapse Analytics**  
-- Created structured tables in SQL pool for querying & analysis  
+- Created structured tables in SQL pool for querying & analysis
+  <img width="1914" height="868" alt="Image" src="https://github.com/user-attachments/assets/7971c27a-ddaa-4359-a2dd-afc6bae8b574" />
 
 ### **Step 4: Visualization (Planned)**
 - **Power BI integration** for interactive dashboards  
