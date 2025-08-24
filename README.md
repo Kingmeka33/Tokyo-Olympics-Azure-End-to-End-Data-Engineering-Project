@@ -59,7 +59,7 @@ The dataset includes **five CSV files** related to the Tokyo 2021 Olympics:
 <img width="1906" height="871" alt="Image" src="https://github.com/user-attachments/assets/931925c7-d48b-49dd-a483-a72ee19bb5e5" />
 <img width="1908" height="877" alt="Image" src="https://github.com/user-attachments/assets/d7c85a22-c3b4-4c83-bd70-47682bb6079e" />
 <img width="1908" height="847" alt="Image" src="https://github.com/user-attachments/assets/61380511-d3d3-4ce0-9e09-1ff10c98036c" />
-<img width="1919" height="813" alt="Image" src="https://github.com/user-attachments/assets/83f9cd81-879b-423e-a7b0-d324c530c47a" />
+<img width="1918" height="764" alt="Image" src="https://github.com/user-attachments/assets/7a54fb42-cbd0-4ae7-aef8-3090ca900c52" />
 
 ### **Step 3: Data Warehousing**
 - Linked transformed data to **Azure Synapse Analytics**  
