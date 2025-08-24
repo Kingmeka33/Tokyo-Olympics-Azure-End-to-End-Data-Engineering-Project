@@ -111,7 +111,8 @@ The dataset includes **five CSV files** related to the Tokyo 2021 Olympics:
 
 ### **Dashboard Completion**
 - Finalize **Power BI dashboards**  
-- Add detailed visualizations (medal counts, participation trends, team performance)  
+- Add detailed visualizations (medal counts, participation trends, team performance)
+  <img width="1908" height="877" alt="Image" src="https://github.com/user-attachments/assets/4e773061-f60f-4bc1-a672-447d2f376551" />
 
 ---
 
